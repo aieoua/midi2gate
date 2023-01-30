@@ -1,7 +1,7 @@
 # midi2gate
 This project contains firmware, schematics and gerber file for MIDI to GATE converter based on ATMEGA328p.
 
-This is a DIY project general knowledge of electronics, basic tools and skills are required to build this converter. The schematics presented here feature:
+This is a DIY project. General knowledge of electronics and programming, basic tools and skills are required to build this converter. The schematics presented here feature:
 
 - midi input
 - 6 programmable buffered gate outputs
